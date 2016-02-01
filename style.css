@@ -23,3 +23,6 @@
   height: auto;
   display: block;
 }
+.member-name {
+  border-bottom: 2px solid;
+}
