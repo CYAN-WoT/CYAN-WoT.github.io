@@ -21,6 +21,14 @@
   margin-top: 10px;
   margin-bottom: 10px;
 }
+.text-topbottom-center {
+  display: table-cell;
+  vertical-align: middle;
+}
+.img-clanhis {
+  width: 80%;
+  margin: 0 auto;
+}
 .img-responsive {
   max-width: 100%;
   height: auto;
