@@ -2,6 +2,7 @@
 .jumbotron {
   background-image: url(imgs/header2.jpg);
   background-size: cover;
+  background-position: center center;
 }
 .jum-top-h1 {
   color: #383838;
