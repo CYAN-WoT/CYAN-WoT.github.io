@@ -12,6 +12,13 @@
   color: #fff;
   text-shadow: rgba(56, 56, 56, 0.5) 1px 1px 0px, rgba(56, 56, 56, 0.5) -1px 1px 0px, rgba(56, 56, 56, 0.5) 1px -1px 0px, rgba(56, 56, 56, 0.5) -1px -1px 0px;
 }
+.text-slim {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+}
+.text-letter-spacing {
+  letter-spacing: 2px;
+}
 .heading {
   border-bottom: 2px solid #29949a;
   font-size: 40px;
